@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateAgain", "Calculate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateThird", "CalculateThird\CalculateThird.csproj", "{39CBF2AB-87FA-47AA-A1E3-4AB18020C6E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalanNumbers", "CatalanNumbers\CatalanNumbers.csproj", "{29A7247C-46F2-418E-8597-625282CC94ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{39CBF2AB-87FA-47AA-A1E3-4AB18020C6E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39CBF2AB-87FA-47AA-A1E3-4AB18020C6E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39CBF2AB-87FA-47AA-A1E3-4AB18020C6E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29A7247C-46F2-418E-8597-625282CC94ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A7247C-46F2-418E-8597-625282CC94ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A7247C-46F2-418E-8597-625282CC94ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A7247C-46F2-418E-8597-625282CC94ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
